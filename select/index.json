@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "STOP ME",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2026-02-12T11:25:05.221451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neva Stop Me",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/01_Neva_Stop_Me_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Piggy (Nothing Can Stop Me Now)",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/02_Piggy_(Nothing_Can_Stop_Me_Now)_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Piggy (Nothing Can Stop Me Now)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/03_Piggy_(Nothing_Can_Stop_Me_Now)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Don't_Stop_Me_Now_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_Don't_Stop_Me_Now_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stop Me",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/06_Stop_Me_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stop Me Now",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/07_Don't_Stop_Me_Now_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now (Cub mix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/08_Nothing's_Gonna_Stop_Me_Now_(Cub_mix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now (Club Mix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/09_Nothing's_Gonna_Stop_Me_Now_(Club_Mix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now - Instrumental",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/10_Nothing's_Gonna_Stop_Me_Now_-_Instrumental_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now (Instrumental)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/11_Nothing's_Gonna_Stop_Me_Now_(Instrumental)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now - Jump & Jive Mix",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/12_Nothing's_Gonna_Stop_Me_Now_-_Jump_&_Jive_Mix_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothing's Gonna Stop Me Now (Jump & Jive Mix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/13_Nothing's_Gonna_Stop_Me_Now_(Jump_&_Jive_Mix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stop Me (If You've Heard It All Before)",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/14_Stop_Me_(If_You've_Heard_It_All_Before)_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stop Me (If You’ve Heard It All Before)",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/15_Stop_Me_(If_You’ve_Heard_It_All_Before)_Billy_Ocean.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STOP ME",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_STOP_ME_Nona_Reeves.txt"
+    }
+  ]
+}
